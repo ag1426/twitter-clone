@@ -28,5 +28,5 @@ function App() {
       {data.map(tweet => <Tweet key={tweet.id} {...tweet}/>)}
     </div>
     );
-  }
+  }a
 export default App;
